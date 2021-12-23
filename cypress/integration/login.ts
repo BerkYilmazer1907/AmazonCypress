@@ -4,7 +4,7 @@ const loginPage = new LoginPage()
 const user ={
   url:'https://www.amazon.com/',
   userEmail:'berkyilmazer@hotmail.com',
-  userPassword:'TesterCypress@'
+  userPassword:'1'
 }
 
 

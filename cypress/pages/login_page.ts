@@ -6,7 +6,6 @@ export class LoginPage{
     loginPage_clickLoginLink = '#nav-link-accountList-nav-line-1'
     loginPage_clickContinueButton = '.a-button-inner > #continue'
     loginPage_clickLoginButton = '#signInSubmit'
-    loginPage_clickLoginButton2 = '#signInSubmit'
 
 
     navigate(url : string){
